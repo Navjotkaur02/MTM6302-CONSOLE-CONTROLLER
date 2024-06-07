@@ -3,7 +3,10 @@ Step 1. go to repostory setting and click in colabrators and add a collabrator
 
 ![Screenshot 2024-05-31 150935](https://github.com/Navjotkaur02/MTM6302-CONSOLE-CONTROLLER/assets/134635232/c1e6c519-edb1-4bae-bfcf-c61a0223692f)
 
-Step 2. Open your Gitbash and run the command git clone. https://github.com/Navjotkaur02/mtm6302-console-controller-NavjotKaur02.git
+Step 2. Open your Gitbash and run the command git clone. https://navjotkaur02.github.io/MTM6302-CONSOLE-CONTROLLER/ 
+
+![image](https://github.com/Navjotkaur02/MTM6302-CONSOLE-CONTROLLER/assets/134635232/c2179c09-db04-43b3-ab61-42f566a82ac5)
+
 
 ![Screenshot 2024-05-31 152620](https://github.com/Navjotkaur02/MTM6302-CONSOLE-CONTROLLER/assets/134635232/bf7957db-decd-4df0-91ea-e60b3142ef1f)
 
